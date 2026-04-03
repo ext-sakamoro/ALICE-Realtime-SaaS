@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_REALTIME
+name: alice-realtime
 description: ALICE Realtime
 type: application
 version: 0.1.0
